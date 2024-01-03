@@ -55,12 +55,12 @@ ul {
   list-style: none;
 }
 
-input {
+input,
+.btn {
   outline: none;
 }
 
 .btn {
-  outline: none;
   background: none;
   border: 0px;
   color: #888;
