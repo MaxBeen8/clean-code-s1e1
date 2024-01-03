@@ -47,20 +47,20 @@
 }
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .list {
-  list-style:none;
+  list-style: none;
 }
 
 input {
-  outline:none;
+  outline: none;
 }
 
 .btn {
-  outline:none;
+  outline: none;
   background: none;
   border: 0px;
   color: #888;
@@ -152,14 +152,14 @@ button:hover {
 
 /* Edit Task */
 .list .text {
-  display:none
+  display: none
 }
 
 .list.edit-mode .text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list.edit-mode label {
-  display:none;
+  display: none;
 }
