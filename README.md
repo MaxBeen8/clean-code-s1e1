@@ -1,7 +1,6 @@
 <img width="1199" alt="code-quality-task-screenshot" src="https://user-images.githubusercontent.com/8201843/113413843-4080fb80-93c4-11eb-9f20-15e4b4c1e430.png">
 
 # Application Functionality :
-
     - Adding a new item to the "TODO" task list
     - Editing an item in the "TODO" task list
     - Deleting an item from the "TODO" task list
@@ -13,5 +12,4 @@
     - Animation on the delete button
 
 # Link:
-
 https://maxbeen8.github.io/clean-code-s1e1/
